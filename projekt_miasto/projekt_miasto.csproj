@@ -44,6 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adres.cs" />
+    <Compile Include="pojazd.cs" />
+    <Compile Include="samochody\Class1.cs" />
+    <Compile Include="silnik.cs" />
+    <Compile Include="zbiornikpaliwa.cs" />
     <Compile Include="IInformacje.cs" />
     <Compile Include="Miasto.cs" />
     <Compile Include="Osoba.cs" />

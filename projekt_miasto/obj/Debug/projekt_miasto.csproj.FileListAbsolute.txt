@@ -1,0 +1,2 @@
+C:\Users\Przemysław Michalak\Dysk Google\Studia Informatyka\III semestr\Programowanie obiektowe\projektmiasto_git\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\Przemysław Michalak\Dysk Google\Studia Informatyka\III semestr\Programowanie obiektowe\projektmiasto_git\projekt_miasto\obj\Debug\projekt_miasto.csproj.CoreCompileInputs.cache
